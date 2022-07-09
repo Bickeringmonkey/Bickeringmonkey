@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="MeadowsDemaDesigns Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bickeringmonkey&show_icons=true&hide_border=true&theme=cobolt" />
+<img align="left" alt="MeadowsDemaDesigns Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bickeringmonkey&show_icons=true&theme=cobalt" />
 
 
 [website]: https://meadowsdemadesigns.com
