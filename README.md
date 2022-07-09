@@ -1,4 +1,4 @@
-### Hi, I am Steve - aka [Bickeringmonkey] [website]👋
+### Hi, I am Steve - aka [Bickeringmonkey], [website]👋
 
 ## I'm a Father, Husband, Web Developer and Teacher!
 - 🔭 I’m currently working on a Bite size [HTML Course]
@@ -16,8 +16,14 @@
 - 📬 Send me an [Email]
 - 💽 Follow me on [Github]
 
-<br>
+<br />
+<br />
+
 ---
+
+### 📗 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://meadowsdemadesigns.com
 [Github]: https://github.com/Bickeringmonkey
