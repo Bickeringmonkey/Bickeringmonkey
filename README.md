@@ -7,7 +7,14 @@
 - 💻 Hobbies: I love to game on both the Xbox and PC
 - ⚡ Fun fact: I have a 3 year old Jack Russell
 
+---
+
 ### Connect with me:
 
-- 🌎 <a href="https://www.meadowsdemadesigns.com">Website</a>
+- 🌎 <a href="https://www.meadowsdemadesigns.com" target="_blank">Website</a>
+- 📺 [Youtube]
+- 📬 [Email]
+- 💽 <a href="https://github.com/Bickeringmonkey" target="_blank">GitHub</a>
 
+<br>
+---
