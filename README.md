@@ -38,7 +38,7 @@
 
 <br />
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeringmonkey)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeringmonkey)
 
 [website]: https://meadowsdemadesigns.com
 [Github]: https://github.com/Bickeringmonkey
