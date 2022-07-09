@@ -36,6 +36,9 @@
 
 <img align="left" alt="MeadowsDemaDesigns Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bickeringmonkey&show_icons=true&hide_border=true&theme=onedark" />
 
+<br />
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bickeringmonkey)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://meadowsdemadesigns.com
 [Github]: https://github.com/Bickeringmonkey
