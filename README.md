@@ -36,8 +36,8 @@
 
 <img align="left" alt="MeadowsDemaDesigns Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bickeringmonkey&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
-<a href="https://github.com/Bickeringmonkey/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bickeringmonkey&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 [website]: https://meadowsdemadesigns.com
