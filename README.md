@@ -9,5 +9,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="meadowsdemadesigns.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- 🌎 <a href="https://www.meadowsdemadesigns.com">Website</a>
 
