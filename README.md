@@ -17,13 +17,18 @@
 - 💽 Follow me on [Github]
 
 <br />
-<br />
 
+---
+
+### 🎥 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ---
 
 ### 📗 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://meadowsdemadesigns.com
 [Github]: https://github.com/Bickeringmonkey
