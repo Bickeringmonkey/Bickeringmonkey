@@ -12,13 +12,15 @@
 ### Connect with me:
 
 - 🌎 Check out my [website]
-- 📺 [Youtube]
-- 📬 [Email]
-- 💽 Follow me on [github]
+- 📺 Subscribe to my [Youtube] Channel
+- 📬 Send me an [Email]
+- 💽 Follow me on [Github]
 
 <br>
 ---
 
 [website]: https://meadowsdemadesigns.com
-[github]: https://github.com/Bickeringmonkey
+[Github]: https://github.com/Bickeringmonkey
 [Bickeringmonkey]: https://github.com/Bickeringmonkey
+[Youtube]:https://www.youtube.com/channel/UCkljIdFzQ022T0n2-SSejPQ
+[Email]: mailto:steve@meadowsdemadesigns.com
