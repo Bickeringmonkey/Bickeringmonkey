@@ -1,4 +1,4 @@
-### Hi, I am Steve - aka [Bickeringmonkey], [website]👋
+### Hi, I am Steve - aka [Bickeringmonkey] 👋
 
 ## I'm a Father, Husband, Web Developer and Teacher!
 - 🔭 I’m currently working on a Bite size [HTML Course]
