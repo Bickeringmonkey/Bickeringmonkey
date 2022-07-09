@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-- 🌎 <a href="https://www.meadowsdemadesigns.com" target="_blank">Website</a>
+- 🌎 Check out my <a href="https://www.meadowsdemadesigns.com" target="_blank">Website</a>
 - 📺 [Youtube]
 - 📬 [Email]
-- 💽 <a href="https://github.com/Bickeringmonkey" target="_blank">GitHub</a>
+- 💽 Follow me on <a href="https://github.com/Bickeringmonkey" target="_blank">GitHub</a>
 
 <br>
 ---
