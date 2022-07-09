@@ -29,6 +29,7 @@
 
 ### 📗 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction](https://dev.to/bickeringmonkey/introduction-4k34)
 <!-- BLOG-POST-LIST:END -->
 
 ---
