@@ -31,6 +31,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="MeadowsDemaDesigns Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bickeringmonkey&show_icons=true&hide_border=true" />
+
 
 [website]: https://meadowsdemadesigns.com
 [Github]: https://github.com/Bickeringmonkey
