@@ -14,6 +14,7 @@
 - 🌎 Check out my [website]
 - 📺 Subscribe to my [Youtube] Channel
 - 📬 Send me an [Email]
+- 💻 Check out my Etsy Store [Etsy]
 
 <br />
 
@@ -59,4 +60,5 @@
 [Bickeringmonkey]: https://github.com/Bickeringmonkey
 [Youtube]:https://www.youtube.com/channel/UCkljIdFzQ022T0n2-SSejPQ
 [Email]: mailto:steve@meadowsdemadesigns.com
+[Etsy]: https://www.etsy.com/uk/shop/MeadowsDemaDesigns?
 
