@@ -38,6 +38,7 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Responsive navbar tutorial using HTML, CSS and Javascript](https://www.youtube.com/watch?v=FQgTQw-GmUM)
 - [A short Clip from many moons ago](https://www.youtube.com/watch?v=tQSUSF2TRYs)
 - [Cambridge vs Newport Co - 35 minutes](https://www.youtube.com/watch?v=xPH95eHaons)
 <!-- YOUTUBE:END -->
