@@ -39,6 +39,7 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating A Responsive Navbar &lpar;HTML, CSS, JS&rpar;](https://www.youtube.com/watch?v=fo_G_fIGeOw)
 - [What am I #shorts](https://www.youtube.com/watch?v=l50ILwSJceU)
 - [Responsive navbar tutorial using HTML, CSS and Javascript](https://www.youtube.com/watch?v=FQgTQw-GmUM)
 - [A short Clip from many moons ago](https://www.youtube.com/watch?v=tQSUSF2TRYs)
