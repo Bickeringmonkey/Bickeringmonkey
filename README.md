@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fruit Frenzy  Health Benefits Unleashed!](https://www.youtube.com/watch?v=dvs4dby0MrY)
 - [JavaScript Testing using Built in Function](https://www.youtube.com/watch?v=5atITE7W96E)
 - [Creating A Responsive Navbar &lpar;HTML, CSS, JS&rpar;](https://www.youtube.com/watch?v=fo_G_fIGeOw)
 - [What am I #shorts](https://www.youtube.com/watch?v=l50ILwSJceU)
 - [Responsive navbar tutorial using HTML, CSS and Javascript](https://www.youtube.com/watch?v=FQgTQw-GmUM)
-- [A short Clip from many moons ago](https://www.youtube.com/watch?v=tQSUSF2TRYs)
 <!-- YOUTUBE:END -->
 ---
 
