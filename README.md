@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Peach Facts You Didn&#39;t Know! 🍑](https://www.youtube.com/watch?v=WGvVHFIKGAo)
+- [10 Surprising Health Benefits of Eating Meat](https://www.youtube.com/watch?v=tI8RthHrDy4)
 - [5 Unknown Health Benefits of Mushrooms 🍄  #facts #food #healthyfood #didyouknow  #selfimprovement](https://www.youtube.com/watch?v=gKwaeSLq7Yg)
 - [5 Surprising Health Benefits of Oranges](https://www.youtube.com/watch?v=21OQQU_9S-Q)
 - [Why You Should Eat More Fruit! 🍎🍌](https://www.youtube.com/watch?v=7t4EYgeWgC4)
-- [Fruit Frenzy  Health Benefits Unleashed!](https://www.youtube.com/watch?v=dvs4dby0MrY)
-- [JavaScript Testing using Built in Function](https://www.youtube.com/watch?v=5atITE7W96E)
 <!-- YOUTUBE:END -->
 ---
 
