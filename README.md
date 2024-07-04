@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Strawberry Facts You Didn&#39;t Know!](https://www.youtube.com/watch?v=lajNO1hXxsg)
 - [Unlocking the Power of Supplements!](https://www.youtube.com/watch?v=P2-02w6YHZ4)
 - [10 Surprising Health Benefits of Eating vegetables](https://www.youtube.com/watch?v=pgFTLpHS8yI)
 - [5 Peach Facts You Didn&#39;t Know! 🍑](https://www.youtube.com/watch?v=WGvVHFIKGAo)
 - [10 Surprising Health Benefits of Eating Meat](https://www.youtube.com/watch?v=tI8RthHrDy4)
-- [5 Unknown Health Benefits of Mushrooms 🍄  #facts #food #healthyfood #didyouknow  #selfimprovement](https://www.youtube.com/watch?v=gKwaeSLq7Yg)
 <!-- YOUTUBE:END -->
 ---
 
