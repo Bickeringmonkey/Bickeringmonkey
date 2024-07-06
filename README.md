@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Facts You Didn&#39;t Know About Mangoes!](https://www.youtube.com/watch?v=y4YFKwQzAQI)
 - [Top 5 Foods for a Healthy Lifestyle!](https://www.youtube.com/watch?v=juzNP2XukxI)
 - [5 Facts About Kiwi Fruit You Didn&#39;t Know](https://www.youtube.com/watch?v=l8ppBXqZBnY)
 - [Top Benefits of Exercise! 💪](https://www.youtube.com/watch?v=K-xpOTOYwBM)
 - [5 Strawberry Facts You Didn&#39;t Know!](https://www.youtube.com/watch?v=lajNO1hXxsg)
-- [Unlocking the Power of Supplements!](https://www.youtube.com/watch?v=P2-02w6YHZ4)
 <!-- YOUTUBE:END -->
 ---
 
