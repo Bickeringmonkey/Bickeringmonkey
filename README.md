@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Pineapple Facts You Didn&#39;t Know! #facts #healthypedia #healtheffects](https://www.youtube.com/watch?v=Rj1W9TEziG0)
 - [5 Facts You Didn&#39;t Know About Mangoes!](https://www.youtube.com/watch?v=y4YFKwQzAQI)
 - [Top 5 Foods for a Healthy Lifestyle!](https://www.youtube.com/watch?v=juzNP2XukxI)
 - [5 Facts About Kiwi Fruit You Didn&#39;t Know](https://www.youtube.com/watch?v=l8ppBXqZBnY)
 - [Top Benefits of Exercise! 💪](https://www.youtube.com/watch?v=K-xpOTOYwBM)
-- [5 Strawberry Facts You Didn&#39;t Know!](https://www.youtube.com/watch?v=lajNO1hXxsg)
 <!-- YOUTUBE:END -->
 ---
 
