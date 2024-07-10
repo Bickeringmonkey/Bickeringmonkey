@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Fun Facts About Raspberries You Didn&#39;t Know! #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=gte3yq8X6c4)
 - [5 Fun Facts About Potatoes You Didn&#39;t Know! #facts #healthypedia #healthylifestyle](https://www.youtube.com/watch?v=Kv1DVeUEpfI)
 - [5 Fun Facts About Watermelons You Didn&#39;t know](https://www.youtube.com/watch?v=bTdTu9fquWw)
 - [Mango Varieties  Which One Is the Best? #facts #healthypedia #healthylifestyle](https://www.youtube.com/watch?v=M2i9pAgN-5I)
 - [Peach vs  Nectarine  What&#39;s the Difference #facts #healthypedia #healtheffects](https://www.youtube.com/watch?v=1duWI8upmPE)
-- [5 Pineapple Facts You Didn&#39;t Know! #facts #healthypedia #healtheffects](https://www.youtube.com/watch?v=Rj1W9TEziG0)
 <!-- YOUTUBE:END -->
 ---
 
