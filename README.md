@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Facts You Didn&#39;t Know About Pears! 🍐 #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=5WNGKRWSWr0)
 - [Mangoes vs Strawberries  The Ultimate Fruit Off! #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=h_wWSvS98ls)
 - [5 Facts You Didn&#39;t Know About Apples!](https://www.youtube.com/watch?v=h_l9iNr4MJY)
 - [5 Fun Facts About Raspberries You Didn&#39;t Know! #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=gte3yq8X6c4)
 - [5 Fun Facts About Potatoes You Didn&#39;t Know! #facts #healthypedia #healthylifestyle](https://www.youtube.com/watch?v=Kv1DVeUEpfI)
-- [5 Fun Facts About Watermelons You Didn&#39;t know](https://www.youtube.com/watch?v=bTdTu9fquWw)
 <!-- YOUTUBE:END -->
 ---
 
