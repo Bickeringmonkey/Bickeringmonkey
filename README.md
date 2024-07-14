@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Kiwi vs Pineapple  The Ultimate Showdown! #facts #healthypedia #funfacts](https://www.youtube.com/watch?v=3IGp3F5Dy04)
 - [5 Fun Facts About Melons! 🍉  #facts #healthypedia #healthylifestyle](https://www.youtube.com/watch?v=K0ktEF1bfBE)
 - [Mind Blowing Fruit Facts You Didn&#39;t Know! #facts #healthypedia #healthylifestyle](https://www.youtube.com/watch?v=LZtYGhL6FG4)
 - [5 Facts You Didn&#39;t Know About Pears! 🍐 #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=5WNGKRWSWr0)
 - [Mangoes vs Strawberries  The Ultimate Fruit Off! #facts #fruitknowledge #healthylifestyle](https://www.youtube.com/watch?v=h_wWSvS98ls)
-- [5 Facts You Didn&#39;t Know About Apples!](https://www.youtube.com/watch?v=h_l9iNr4MJY)
 <!-- YOUTUBE:END -->
 ---
 
