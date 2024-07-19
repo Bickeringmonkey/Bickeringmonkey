@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Fun Facts About Star Fruit! #facts #fruitknowledge #funfacts](https://www.youtube.com/watch?v=Iph7yNJdgkU)
 - [5 Fun Facts About Passion Fruit! #facts #healthypedia #funfacts](https://www.youtube.com/watch?v=rka-daZVEbw)
 - [5 Facts You Didn&#39;t Know About Dragon Fruit! #facts #healthypedia #funfacts #fruit #fruitknowledge](https://www.youtube.com/watch?v=DIUq8EKIbXY)
 - [5 Fun Facts About Gooseberries You Didn&#39; t know!](https://www.youtube.com/watch?v=eNXib_KkgdI)
 - [Fruit vs Vegetables  Who Wins!! #facts #healthypedia #funfacts](https://www.youtube.com/watch?v=beT_OmN57-E)
-- [Kiwi vs Pineapple  The Ultimate Showdown! #facts #healthypedia #funfacts](https://www.youtube.com/watch?v=3IGp3F5Dy04)
 <!-- YOUTUBE:END -->
 ---
 
