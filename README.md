@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fruity Delight  The Mango Kiwi Jam](https://www.youtube.com/watch?v=9X3Kb6nEgSg)
 - [Those eyes, whispers- nightmares forever. Chilling!](https://www.youtube.com/watch?v=icg4ZmQrKd0)
 - [5 Fun Facts About Rambutan You Didn&#39;t Know! #fruitknowledge #funfacts #facts](https://www.youtube.com/watch?v=Gw2s_y-0TR0)
 - [5 Fun Facts About Star Fruit! #facts #fruitknowledge #funfacts](https://www.youtube.com/watch?v=Iph7yNJdgkU)
 - [5 Fun Facts About Passion Fruit! #facts #healthypedia #funfacts](https://www.youtube.com/watch?v=rka-daZVEbw)
-- [5 Facts You Didn&#39;t Know About Dragon Fruit! #facts #healthypedia #funfacts #fruit #fruitknowledge](https://www.youtube.com/watch?v=DIUq8EKIbXY)
 <!-- YOUTUBE:END -->
 ---
 
