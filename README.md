@@ -39,11 +39,11 @@
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Fun Facts About Rhubarb! #fruitknowledge #funfacts #facts](https://www.youtube.com/watch?v=6dhgii5-0pU)
 - [5 Fun Facts About Sapodilla!  #fruitknowledge #funfacts #facts](https://www.youtube.com/watch?v=qhh4T6bS8_A)
 - [Fruity Delight  The Mango Kiwi Jam](https://www.youtube.com/watch?v=9X3Kb6nEgSg)
 - [Those eyes, whispers- nightmares forever. Chilling!](https://www.youtube.com/watch?v=icg4ZmQrKd0)
 - [5 Fun Facts About Rambutan You Didn&#39;t Know! #fruitknowledge #funfacts #facts](https://www.youtube.com/watch?v=Gw2s_y-0TR0)
-- [5 Fun Facts About Star Fruit! #facts #fruitknowledge #funfacts](https://www.youtube.com/watch?v=Iph7yNJdgkU)
 <!-- YOUTUBE:END -->
 ---
 
